@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**OogleGlu/OogleGlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aviruk, Aviruk Basak. But I prefer to go by `Oogle`, `Oogle Glu` on the internet. Consider this to be my alias.
 
-Here are some ideas to get you started:
+### History of `OogleGlu`
+I myself am not very sure of the origin of this name.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As far as I remember, `OogleGlu` when written with last name first is `gluoogle`.
+
+And `gluoogle` sounds more or less like our beloved search engine.
+
+It seems `gluoogle` and hence `Oogle Glu` has it's roots in the name of this search engine.
+
+### Some stuff I made:
+- https://github.com/OogleGlu/Esoteric-Assembler
+- https://github.com/OogleGlu/JSHP
+- https://github.com/OogleGlu/SozialM
+- https://github.com/OogleGlu/SendSecretMsg
+
+### Some websites I made
+- https://cinexhome.web.app
+- https://sozialm.web.app
+- https://sendsecretmsg.web.app
