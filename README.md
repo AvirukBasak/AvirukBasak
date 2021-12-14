@@ -1,4 +1,12 @@
-## Hi there 👋
+## Introducing Oogle Glu
+<img
+  src="https://c.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif"
+  alt="Hello There - Obi Wan-Kenobi"
+  style="
+    width: 100%;
+    border: 1px solid transparent;
+    border-radius: 10px;"
+/>
 
 I'm Aviruk, Aviruk Basak. But I prefer to go by `Oogle`, `Oogle Glu` on the internet. Consider this to be my alias.
 
