@@ -8,7 +8,7 @@
     border-radius: 10px;"
 />
 
-Hi, I'm Aviruk.
+I'm Aviruk.
 
 ## Some stuff I made:
 
