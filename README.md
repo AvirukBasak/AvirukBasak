@@ -8,7 +8,7 @@
     border-radius: 10px;"
 />
 
-I'm Aviruk, Aviruk Basak.
+Hi, I'm Aviruk.
 
 ### Some stuff I made:
 - [AvirukBasak/Esoteric-Assembler](https://github.com/AvirukBasak/Esoteric-Assembler)
