@@ -10,13 +10,15 @@
 
 Hi, I'm Aviruk.
 
-### Some stuff I made:
+## Some stuff I made:
+
+#### repositories
 - [AvirukBasak/Esoteric-Assembler](https://github.com/AvirukBasak/Esoteric-Assembler)
 - [AvirukBasak/SozialM](https://github.com/AvirukBasak/SozialM)
 - [AvirukBasak/JSHP](https://github.com/AvirukBasak/JSHP)
 - [AvirukBasak/SendSecretMsg](https://github.com/AvirukBasak/SendSecretMsg)
 
-### Some websites I made
+#### websites
 - https://cinexhome.web.app
 - https://sozialm.web.app
 - https://sendsecretmsg.web.app
