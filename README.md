@@ -14,7 +14,7 @@ I'm Aviruk.
 
 #### repositories
 - [AvirukBasak/Esoteric-Assembler](https://github.com/AvirukBasak/Esoteric-Assembler)
-- [AvirukBasak/SozialM](https://github.com/AvirukBasak/SozialM)
+- [CinexSoft/SozialM](https://github.com/CinexSoft/SozialM)
 - [AvirukBasak/JSHP](https://github.com/AvirukBasak/JSHP)
 - [ConexSoft/AnonMessageMe](https://github.com/CinexSoft/AnonMessageMe)
 
