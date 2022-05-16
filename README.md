@@ -13,10 +13,10 @@ I'm Aviruk.
 ## Some stuff I made:
 
 #### repositories
-- [AvirukBasak/Esoteric-Assembler](https://github.com/AvirukBasak/Esoteric-Assembler)
-- [CinexSoft/SozialM](https://github.com/CinexSoft/SozialM)
-- [AvirukBasak/JSHP](https://github.com/AvirukBasak/JSHP)
-- [ConexSoft/AnonMessageMe](https://github.com/CinexSoft/AnonMessageMe)
+- [AvirukBasak/esoteric-assembly](https://github.com/AvirukBasak/esoteric-assembly)
+- [CinexSoft/sozialm](https://github.com/CinexSoft/sozialm)
+- [AvirukBasak/jshp](https://github.com/AvirukBasak/jshp)
+- [ConexSoft/anonmessageme](https://github.com/CinexSoft/anonmessageme)
 
 #### websites
 - https://cinexhome.web.app
