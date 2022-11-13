@@ -10,7 +10,7 @@
 
 I'm Aviruk.
 
-I'm a CS student with an interest in system softwares and networking technologies.
+I'm a CS student interested in system softwares and networking technologies.
 
 ## Projects
 
