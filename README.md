@@ -36,7 +36,7 @@ I'm Aviruk.
         <img
             align="center"
             width="500px"
-            alt="anuraghazra/github-readme-stats"
+            alt="Languages - AvirukBasak"
             src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&custom_title=Languages&username=AvirukBasak&show_icons=true"
         />
     </a></p>
@@ -44,7 +44,7 @@ I'm Aviruk.
         <img
             align="center"
             width="500px"
-            alt="anuraghazra/github-readme-stats"
+            alt="My Stats - AvirukBasak"
             src="https://github-readme-stats.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true"
         />
     </a></p>
