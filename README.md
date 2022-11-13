@@ -26,12 +26,14 @@ I'm Aviruk.
 ## Activity
 
 <details><br/>
-    <p><img
-        align="center"
-        width="500px"
-        alt="GitHub Streak - AvirukBasak"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
-    /></p>
+    <p><a href="https://git.io/streak-stats">
+        <img
+            align="center"
+            width="500px"
+            alt="GitHub Streak - AvirukBasak"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
+        />
+    </a></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="center"
