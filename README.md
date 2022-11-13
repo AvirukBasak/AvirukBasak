@@ -12,7 +12,7 @@ I'm Aviruk.
 
 I'm a CS student with an interest in system softwares and networking technologies.
 
-## Projects:
+## Projects
 
 #### repositories
 - [AvirukBasak/esoteric-assembly](https://github.com/AvirukBasak/esoteric-assembly)
