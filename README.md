@@ -29,7 +29,7 @@ I'm Aviruk.
     <p><img
         align="center"
         width="500px"
-        alt="github-readme-streak-stats"
+        alt="GitHub Streak - AvirukBasak"
         src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
     /></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
