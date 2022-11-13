@@ -36,12 +36,12 @@ I'm Aviruk.
         align="center"
         width="500px"
         alt="github-readme-stats vercel top-langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&username=AvirukBasak&show_icons=true"
     /></p>
     <p><img
         align="center"
         width="500px"
         alt="github-readme-stats vercel"
-        src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?card_width=500&username=AvirukBasak&show_icons=true"
     /></p>
 </details>
