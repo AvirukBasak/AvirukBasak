@@ -41,7 +41,7 @@ I'm a CS student interested in system softwares and networking technologies.
             align="center"
             width="500px"
             alt="Languages - AvirukBasak"
-            src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&exclude_repo=c-lab-works,overthewire&custom_title=Languages&username=AvirukBasak&show_icons=true"
+            src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works,overthewire&custom_title=Languages&username=AvirukBasak&show_icons=true"
         />
     </a></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
