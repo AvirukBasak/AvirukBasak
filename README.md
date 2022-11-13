@@ -26,7 +26,7 @@ I'm Aviruk.
 ## Activity
 
 <details><br/>
-    <p><a href="https://git.io/streak-stats">
+    <p><a href="https://streak-stats.demolab.com/demo/">
         <img
             align="center"
             width="500px"
