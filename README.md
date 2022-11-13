@@ -42,6 +42,6 @@ I'm Aviruk.
         align="center"
         width="500px"
         alt="github-readme-stats vercel"
-        src="https://github-readme-stats.vercel.app/api?card_width=500&username=AvirukBasak&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true"
     /></p>
 </details>
