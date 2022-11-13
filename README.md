@@ -36,7 +36,7 @@ I'm Aviruk.
         align="center"
         width="500px"
         alt="github-readme-stats vercel top-langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=20&custom_title=Languages&username=AvirukBasak&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&custom_title=Languages&username=AvirukBasak&show_icons=true"
     /></p>
     <p><img
         align="center"
