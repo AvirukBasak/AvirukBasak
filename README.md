@@ -32,16 +32,20 @@ I'm Aviruk.
         alt="github-readme-streak-stats"
         src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
     /></p>
-    <p><img
-        align="center"
-        width="500px"
-        alt="github-readme-stats vercel top-langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&custom_title=Languages&username=AvirukBasak&show_icons=true"
-    /></p>
-    <p><img
-        align="center"
-        width="500px"
-        alt="github-readme-stats vercel"
-        src="https://github-readme-stats.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true"
-    /></p>
+    <p><a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+            align="center"
+            width="500px"
+            alt="github-readme-stats vercel top-langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&custom_title=Languages&username=AvirukBasak&show_icons=true"
+        />
+    </a></p>
+    <p><a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+            align="center"
+            width="500px"
+            alt="github-readme-stats vercel"
+            src="https://github-readme-stats.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true"
+        />
+    </a></p>
 </details>
