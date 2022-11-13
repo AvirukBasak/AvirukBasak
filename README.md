@@ -26,11 +26,24 @@ I'm Aviruk.
 ## Activity
 
 <details><br/>
-
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak)
-
-![github-readme-stats vercel top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=AvirukBasak&show_icons=true&layout=compact)
-
-![github-readme-stats vercel](https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true)
-
+    <p><img
+        alt="github-readme-streak-stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
+    /></p>
+    <p><img
+        alt="github-readme-stats vercel top-langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true#gh-light-mode-only"
+    /></p>
+    <p><img
+        alt="github-readme-stats vercel top-langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true#gh-dark-mode-only"
+    /></p>
+    <p><img
+        alt="github-readme-stats vercel"
+        src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true#gh-light-mode-only"
+    /></p>
+    <p><img
+        alt="github-readme-stats vercel"
+        src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true#gh-dark-mode-only"
+    /></p>
 </details>
