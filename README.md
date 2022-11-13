@@ -27,14 +27,17 @@ I'm Aviruk.
 
 <details><br/>
     <p><img
+        align="center"
         alt="github-readme-streak-stats"
         src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
     /></p>
     <p><img
+        align="center"
         alt="github-readme-stats vercel top-langs"
         src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true"
     /></p>
     <p><img
+        align="center"
         alt="github-readme-stats vercel"
         src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true"
     /></p>
