@@ -22,3 +22,14 @@ I'm Aviruk.
 - https://cinexhome.web.app
 - https://sozialm.web.app
 - https://sendsecretmsg.web.app
+
+#### Activity
+
+<details><br/>
+
+![github-readme-stats vercel top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=AvirukBasak&show_icons=true&layout=compact)
+
+![github-readme-stats vercel](https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true)
+
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak)
+</details>
