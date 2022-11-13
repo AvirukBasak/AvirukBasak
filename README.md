@@ -10,6 +10,8 @@
 
 I'm Aviruk.
 
+I'm a CS student with an interest in system softwares and networking technologies.
+
 ## Some stuff I made:
 
 #### repositories
