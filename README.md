@@ -32,10 +32,10 @@ I'm Aviruk.
     /></p>
     <p><img
         alt="github-readme-stats vercel top-langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true&theme=transparent&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=AvirukBasak&show_icons=true"
     /></p>
     <p><img
         alt="github-readme-stats vercel"
-        src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true&theme=transparent&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=AvirukBasak&show_icons=true"
     /></p>
 </details>
