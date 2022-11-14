@@ -1,6 +1,6 @@
 ## Introducing Aviruk
 <img
-    width="500px"
+    width="250px"
     src="https://media.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif"
     alt="Hello There - Obi Wan-Kenobi"
     style="
