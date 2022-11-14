@@ -1,11 +1,12 @@
 ## Introducing Aviruk
 <img
-  src="https://c.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif"
-  alt="Hello There - Obi Wan-Kenobi"
-  style="
-    width: 100%;
-    border: 1px solid transparent;
-    border-radius: 10px;"
+    width="500px"
+    src="https://media.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif"
+    alt="Hello There - Obi Wan-Kenobi"
+    style="
+        width: 100%;
+        border: 1px solid transparent;
+        border-radius: 10px;"
 />
 
 I'm Aviruk.
