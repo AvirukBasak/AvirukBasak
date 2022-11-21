@@ -34,7 +34,7 @@ I'm a CS student interested in system softwares and networking technologies.
             align="center"
             width="500px"
             alt="GitHub Streak - AvirukBasak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak&fire=5194ef&ring=5194ef&currStreakLabel=3080ed"
         />
     </a></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
