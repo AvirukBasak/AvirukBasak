@@ -42,7 +42,7 @@ I'm a CS student interested in system softwares and networking technologies.
             align="center"
             width="500px"
             alt="Languages - AvirukBasak"
-            src="https://gh-stats-qagin.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works,overthewire&custom_title=Languages&username=AvirukBasak&show_icons=true"
+            src="https://gh-stats-qagin.vercel.app/api/top-langs?card_width=350&layout=compact&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works,overthewire&custom_title=Languages&username=AvirukBasak&show_icons=true&dummy0=1"
         />
     </a></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,7 +50,7 @@ I'm a CS student interested in system softwares and networking technologies.
             align="center"
             width="500px"
             alt="My Stats - AvirukBasak"
-            src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true"
+            src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true&dummy0=1"
         />
     </a></p>
 </details>
