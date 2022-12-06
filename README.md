@@ -54,3 +54,4 @@ I'm a CS student interested in system softwares and networking technologies.
         />
     </a></p>
 </details>
+<!-- resume @ https://resume.io/r/ynmp5xMdj -->
