@@ -1,4 +1,7 @@
 ## Introducing Aviruk
+<!--<p style="display:none;">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AvirukBasak&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>-->
 <img
     width="250px"
     src="https://media.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif"
