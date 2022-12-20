@@ -30,16 +30,7 @@ I'm a CS student interested in system softwares and networking technologies.
 - https://sendsecretmsg.web.app
 
 ## Activity
-
 <details><br/>
-    <p><a href="https://streak-stats.demolab.com/demo/">
-        <img
-            align="center"
-            width="500px"
-            alt="GitHub Streak - AvirukBasak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak&fire=5194ef&ring=5194ef&currStreakLabel=3080ed"
-        />
-    </a></p>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="center"
@@ -54,6 +45,14 @@ I'm a CS student interested in system softwares and networking technologies.
             width="500px"
             alt="My Stats - AvirukBasak"
             src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true&dummy0=1"
+        />
+    </a></p>
+    <p><a href="https://streak-stats.demolab.com/demo/">
+        <img
+            align="center"
+            width="500px"
+            alt="GitHub Streak - AvirukBasak"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak&fire=5194ef&ring=5194ef&currStreakLabel=3080ed"
         />
     </a></p>
 </details>
