@@ -55,5 +55,13 @@ I'm a CS student interested in system softwares and networking technologies.
             src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak&fire=5194ef&ring=5194ef&currStreakLabel=3080ed"
         />
     </a></p>
+    <p><a href="https://holopin.io/@avirukbasak">
+        <img
+            align="center"
+            width="500px"
+            alt="Holopin Badges - AvirukBasak"
+            src="https://holopin.me/avirukbasak"
+        />
+    </a></p>
 </details>
 <!-- resume @ https://resume.io/r/ynmp5xMdj -->
