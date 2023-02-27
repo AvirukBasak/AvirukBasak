@@ -15,7 +15,7 @@
 I'm Aviruk.
 
 I'm a CS student interested in various technologies.
-I do projects in the web, in the CLI, and worked a little with Android.
+I do projects in the web, in the CLI, and have worked a little with Android.
 
 ## Past Projects
 
