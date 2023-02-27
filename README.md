@@ -14,15 +14,16 @@
 
 I'm Aviruk.
 
-I'm a CS student interested in system softwares and networking technologies.
+I'm a CS student interested in various technologies.
+I do projects in the web, in the CLI, and worked a little with Android.
 
-## Projects
+## Past Projects
 
 #### repositories
 - [AvirukBasak/esoteric-assembly](https://github.com/AvirukBasak/esoteric-assembly)
 - [CinexSoft/sozialm](https://github.com/CinexSoft/sozialm)
 - [AvirukBasak/jshp](https://github.com/AvirukBasak/jshp)
-- [ConexSoft/anonmessageme](https://github.com/CinexSoft/anonmessageme)
+- [CinexSoft/anonmessageme](https://github.com/CinexSoft/anonmessageme)
 
 #### websites
 - https://cinexhome.web.app
