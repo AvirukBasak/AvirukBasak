@@ -19,16 +19,24 @@ I do projects in the web, in the CLI, and have worked a little with Android.
 
 ## Past Projects
 
-#### repositories
-- [AvirukBasak/esoteric-assembly](https://github.com/AvirukBasak/esoteric-assembly)
-- [CinexSoft/sozialm](https://github.com/CinexSoft/sozialm)
+#### project starter templates
+- [AviruBasak/mern-template-app](https://github.com/AvirukBasak/mern-template-app)
+- [AviruBasak/reactjs-template-app](https://github.com/AvirukBasak/reactjs-template-app)
+- [AviruBasak/nextjs-template-app](https://github.com/AvirukBasak/nextjs-template-app)
+- [AviruBasak/flutter-template-app](https://github.com/AvirukBasak/flutter-template-app)
+- [AviruBasak/cxx-template-proj](https://github.com/AvirukBasak/cxx-template-proj)
+
+#### projects
+- [AvirukBasak/shsc-lang](https://github.com/AvirukBasak/shsc-lang)
 - [AvirukBasak/jshp](https://github.com/AvirukBasak/jshp)
+- [CinexSoft/sozialm](https://github.com/CinexSoft/sozialm)
 - [CinexSoft/anonmessageme](https://github.com/CinexSoft/anonmessageme)
+- [AvirukBasak/esoteric-assembly](https://github.com/AvirukBasak/esoteric-assembly)
 
 #### websites
-- https://cinexhome.web.app
 - https://sozialm.web.app
 - https://sendsecretmsg.web.app
+- https://cinexhome.web.app
 
 ## Activity
 <details><br/>
