@@ -39,7 +39,7 @@ I do projects in the web, in the CLI, and have worked a little with Android.
 - https://cinexhome.web.app
 
 ## Activity
-<details><br/>
+<details><summary>Show Graphs</summary><br/>
     <p><a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="center"
