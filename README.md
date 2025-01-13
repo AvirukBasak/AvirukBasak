@@ -27,6 +27,7 @@ I do projects in the web, in the CLI, and have worked a little with Android.
 - [AviruBasak/cxx-template-proj](https://github.com/AvirukBasak/cxx-template-proj)
 
 #### projects
+- [AvirukBasak/evolutionary-maze-solver](https://github.com/AvirukBasak/evolutionary-maze-solver)
 - [AvirukBasak/shsc-lang](https://github.com/AvirukBasak/shsc-lang)
 - [AvirukBasak/jshp](https://github.com/AvirukBasak/jshp)
 - [CinexSoft/sozialm](https://github.com/CinexSoft/sozialm)
