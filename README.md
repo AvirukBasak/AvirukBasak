@@ -39,38 +39,45 @@ I do projects in the web, in the CLI, and have worked a little with Android.
 - https://cinexhome.web.app
 
 ## Activity
-<details><summary>Show Graphs</summary><br/>
-    <p><a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <details><summary>Show Graphs</summary><br/> -->
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="center"
             width="500px"
             alt="Languages - AvirukBasak"
             src="https://gh-stats-qagin.vercel.app/api/top-langs?card_width=350&layout=compact&hide=jupyter%20notebook&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works&custom_title=Languages&username=AvirukBasak&show_icons=true&dummy0=2"
         />
-    </a></p>
-    <p><a href="https://github.com/anuraghazra/github-readme-stats">
+    </a>
+</p>
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="center"
             width="500px"
             alt="My Stats - AvirukBasak"
             src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true&dummy0=2"
         />
-    </a></p>
-    <p><a href="https://streak-stats.demolab.com/demo/">
+    </a>
+</p>
+<!-- <p>
+    <a href="https://streak-stats.demolab.com/demo/">
         <img
             align="center"
             width="500px"
             alt="GitHub Streak - AvirukBasak"
             src="https://github-readme-streak-stats.herokuapp.com/?user=AvirukBasak&fire=5194ef&ring=5194ef&currStreakLabel=3080ed"
         />
-    </a></p>
-    <p><a href="https://holopin.io/@avirukbasak">
+    </a>
+</p> -->
+<p>
+    <a href="https://holopin.io/@avirukbasak">
         <img
             align="center"
             width="500px"
             alt="Holopin Badges - AvirukBasak"
             src="https://holopin.me/avirukbasak"
         />
-    </a></p>
-</details>
-<!-- resume @ https://resume.io/r/ynmp5xMdj -->
+    </a>
+</p>
+<!-- </details> -->
