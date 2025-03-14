@@ -47,7 +47,7 @@ I do projects in the web, in the CLI, and have worked a little with Android.
             align="center"
             width="500px"
             alt="Languages - AvirukBasak"
-            src="https://gh-stats-qagin.vercel.app/api/top-langs?card_width=350&layout=compact&hide=jupyter%20notebook&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works&custom_title=Languages&username=AvirukBasak&show_icons=true&dummy0=2"
+            src="https://gh-stats-qagin.vercel.app/api/top-langs?card_width=350&layout=compact&hide=jupyter%20notebook&langs_count=10&exclude_repo=isc-computer-practical,c-lab-works&custom_title=Languages&username=AvirukBasak&show_icons=true&dummy0=0"
         />
     </a>
 </p>
@@ -57,7 +57,7 @@ I do projects in the web, in the CLI, and have worked a little with Android.
             align="center"
             width="500px"
             alt="My Stats - AvirukBasak"
-            src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true&dummy0=2"
+            src="https://gh-stats-qagin.vercel.app/api?card_width=500&custom_title=My%20Stats&username=AvirukBasak&show_icons=true&dummy0=0"
         />
     </a>
 </p>
