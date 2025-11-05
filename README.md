@@ -39,6 +39,7 @@ I do projects in the web, in the CLI, and have worked a little with Android.
 - https://sendsecretmsg.web.app
 - https://cinexhome.web.app
 - https://mess-booking-app-serverless.web.app
+- https://shsc-online-repl.vercel.app
 
 ## Activity
 <!-- <details><summary>Show Graphs</summary><br/> -->
