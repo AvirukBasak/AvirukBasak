@@ -36,9 +36,9 @@ Find your **primary constraint** in the left column → check whether cost sensi
 
 | Model | Provider | Input $/M | Output $/M | Context | Tier |
 |---|---|:---:|:---:|:---:|:---:|
-| GPT-4.1 Nano | OpenAI | $0.10 | $0.40 | 1M | Budget |
-| Gemini 2.0 Flash | Google | $0.10 | $0.40 | 1M | Budget |
-| Gemini 2.5 Flash-Lite | Google | $0.10 | $0.40 | 1M | Budget |
+| **GPT-4.1 Nano** | OpenAI | $0.10 | $0.40 | 1M | Budget |
+| **Gemini 2.0 Flash** | Google | $0.10 | $0.40 | 1M | Budget |
+| **Gemini 2.5 Flash-Lite** | Google | $0.10 | $0.40 | 1M | Budget |
 | GPT-5.4 Nano | OpenAI | $0.20 | $1.25 | 400K | Budget |
 | DeepSeek V3 | DeepSeek | $0.27 | $1.10 | 128K | Budget |
 | Gemini 2.5 Flash | Google | $0.30 | $2.50 | 1M | Mid |
